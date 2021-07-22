@@ -1,5 +1,8 @@
 # nycscertweb
 
-Here is my README.md file, with main heading intact
+# Programming in Java
 
-Testing out creating a repository in GitHub for Hunter CS cert program
+# Data Structures
+
+# Methods I
+https://docs.google.com/document/d/1RVZExBM5fEi9dlxuF531NjxR1GEzJaLMe5nLaNlf_bY/edit?usp=sharing
