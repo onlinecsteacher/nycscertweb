@@ -1,6 +1,9 @@
 # nycscertweb
 
 # Programming in Java
+Conway's Game of Life: [Game of Life repository] (https://github.com/hunter-teacher-cert/work_csci70900-onlinecsteacher/tree/master/4)
+
+Partners: petertsun and brianmueller
 
 # Data Structures
 Created a program to solve a given maze: [Maze code and driver](https://github.com/hunter-teacher-cert/work_csci70900-onlinecsteacher/tree/master/ds/maze)
