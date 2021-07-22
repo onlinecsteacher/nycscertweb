@@ -3,7 +3,7 @@
 # Programming in Java
 
 # Data Structures
-Created a program to solve a given maze: [Maze code and driver] (https://github.com/hunter-teacher-cert/work_csci70900-onlinecsteacher/tree/master/ds/maze)
+Created a program to solve a given maze: [Maze code and driver](https://github.com/hunter-teacher-cert/work_csci70900-onlinecsteacher/tree/master/ds/maze)
 
 # Methods I
 Unplugged Group Activity on methods and functions:
