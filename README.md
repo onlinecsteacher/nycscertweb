@@ -1,7 +1,7 @@
 # nycscertweb
 
 # Programming in Java
-Conway's Game of Life: [Game of Life repository](https://github.com/hunter-teacher-cert/work_csci70900-onlinecsteacher/tree/master/4)
+Conway's Game of Life: [GoL folder](https://github.com/hunter-teacher-cert/work_csci70900-onlinecsteacher/tree/master/4)
 
 Partners: petertsun and brianmueller
 
