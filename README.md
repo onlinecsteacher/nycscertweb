@@ -6,7 +6,7 @@ Conway's Game of Life: [GoL folder](https://github.com/hunter-teacher-cert/work_
 Partners: petertsun and brianmueller
 
 # Data Structures
-Created a program to solve a given maze: [Maze code and driver](https://github.com/hunter-teacher-cert/work_csci70900-onlinecsteacher/tree/master/ds/maze)
+Created a program to solve a given maze: [Maze.java and Driver.java](https://github.com/hunter-teacher-cert/work_csci70900-onlinecsteacher/tree/master/ds/maze)
 
 Partners: chaouiki1 and twong-cs
 
