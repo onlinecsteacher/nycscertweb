@@ -11,7 +11,7 @@ Created a program to solve a given maze: [Maze.java](https://github.com/hunter-t
 Partners: chaouiki1 and twong-cs
 
 # Methods I
-Unplugged Group Activity on methods and functions:
+Unplugged Group Activity on method calls:
 [Google Doc link](https://docs.google.com/document/d/1RVZExBM5fEi9dlxuF531NjxR1GEzJaLMe5nLaNlf_bY/edit?usp=sharing)
 
 Partners: alexmoore77 and Skabanakis
