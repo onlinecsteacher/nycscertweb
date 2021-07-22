@@ -3,6 +3,8 @@
 # Programming in Java
 Conway's Game of Life w/animation: [CgolAnimate.java](https://github.com/hunter-teacher-cert/work_csci70900-onlinecsteacher/blob/master/4/CgolAnimate.java)
 
+![alt text](https://upload.wikimedia.org/wikipedia/commons/e/e5/Gospers_glider_gun.gif)
+
 Partners: petertsun and brianmueller
 
 # Data Structures
