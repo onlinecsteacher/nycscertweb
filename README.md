@@ -1,6 +1,6 @@
 # nycscertweb
 
-As part of Hunter College's Computer Science Education degree, there was an intensive programming session in Summer 2021. Here are some featured projects from those three classes: Programming in Java, Data Structures, and Methods for Teaching Computer Science I.
+As part of Hunter College's Computer Science Education degree, July 2021 consisted of 3 intensive programming courses in Java. Here are some featured projects from those three classes: Programming in Java, Data Structures, and Methods I for Teaching Computer Science.
 
 # Programming in Java
 Conway's Game of Life w/animation: [CgolAnimate.java](https://github.com/hunter-teacher-cert/work_csci70900-onlinecsteacher/blob/master/4/CgolAnimate.java)
@@ -10,9 +10,9 @@ Conway's Game of Life w/animation: [CgolAnimate.java](https://github.com/hunter-
 Partners: petertsun and brianmueller
 
 # Data Structures
-Created a program to solve a maze: [Maze.java](https://github.com/hunter-teacher-cert/work_csci70900-onlinecsteacher/blob/master/ds/maze/Maze.java) and [Driver.java](https://github.com/hunter-teacher-cert/work_csci70900-onlinecsteacher/blob/master/ds/maze/Driver.java)
+Maze solver program: [Maze.java](https://github.com/hunter-teacher-cert/work_csci70900-onlinecsteacher/blob/master/ds/maze/Maze.java) and [Driver.java](https://github.com/hunter-teacher-cert/work_csci70900-onlinecsteacher/blob/master/ds/maze/Driver.java)
 
-Created a program to solve Knight's Tour: [Knights.java](https://github.com/hunter-teacher-cert/work_csci70900-onlinecsteacher/blob/master/ds/maze/Knights.java) and [Knights Tour demo](Knights_movie.mov)
+Knight's Tour program: [Knights.java](https://github.com/hunter-teacher-cert/work_csci70900-onlinecsteacher/blob/master/ds/maze/Knights.java) and [Knights Tour demo](Knights_movie.mov)
 
 ![alt text](https://upload.wikimedia.org/wikipedia/commons/c/ca/Knights-Tour-Animation.gif)
 
