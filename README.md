@@ -20,6 +20,4 @@ Partners: chaouiki1 and twong-cs
 Unplugged Group Activity on method calls:
 [Google Doc link](https://docs.google.com/document/d/1RVZExBM5fEi9dlxuF531NjxR1GEzJaLMe5nLaNlf_bY/edit?usp=sharing)
 
-![alt text](https://s3-eu-west-1.amazonaws.com/rpf-futurelearn/programming-102/1.6-basicfunctionmachine.gif)
-
 Partners: alexmoore77 and Skabanakis
