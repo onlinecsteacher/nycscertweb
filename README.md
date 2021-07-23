@@ -1,6 +1,6 @@
 # nycscertweb
 
-As part of Hunter College's MS in Computer Science Education degree, I took 3 intensive programming courses in July 2021. Here are some featured projects from those three classes: Programming in Java, Data Structures, and Methods for Teaching Computer Science I.
+As part of Hunter College's Computer Science Education degree, there was an intensive programming session in Summer 2021. Here are some featured projects from those three classes: Programming in Java, Data Structures, and Methods for Teaching Computer Science I.
 
 # Programming in Java
 Conway's Game of Life w/animation: [CgolAnimate.java](https://github.com/hunter-teacher-cert/work_csci70900-onlinecsteacher/blob/master/4/CgolAnimate.java)
