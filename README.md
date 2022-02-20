@@ -12,7 +12,7 @@ Partners: petertsun and brianmueller
 # Data Structures
 Maze solver program: [Maze.java](https://github.com/hunter-teacher-cert/work_csci70900-onlinecsteacher/blob/master/ds/maze/Maze.java) and [Driver.java](https://github.com/hunter-teacher-cert/work_csci70900-onlinecsteacher/blob/master/ds/maze/Driver.java)
 
-Knight's Tour program: [Knights.java](https://github.com/hunter-teacher-cert/work_csci70900-onlinecsteacher/blob/master/ds/maze/Knights.java) and [Knights Tour demo](Knights_movie.mov)
+Knight's Tour program: [Knights.java](https://github.com/hunter-teacher-cert/work_csci70900-onlinecsteacher/blob/master/ds/knights/Knights.java) and [Knights Tour demo](Knights_movie.mov)
 
 ![alt text](https://upload.wikimedia.org/wikipedia/commons/c/ca/Knights-Tour-Animation.gif)
 
